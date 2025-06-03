@@ -1,0 +1,12 @@
+{
+  "ignore": [
+    "auth/**/*",
+    "uploads/**/*",
+    "sessions.json",
+    "*.log",
+    "node_modules/**/*"
+  ],
+  "watch": ["*.js", "src/**/*.js"],
+  "ext": "js,json",
+  "delay": 2000
+}
